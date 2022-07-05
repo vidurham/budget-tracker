@@ -38,4 +38,4 @@ If you have any questions, feel free to contact me via email, vdurham@prideseals
 [Heroku Link](https://budget-tracker-2244.herokuapp.com/)
 
 ### Screenshot
-![Screenshot of Tech Blog App](./public/images/budget-tracker.jpg)
+![Screenshot of Budget Tracker App](./public/images/budget-tracker.jpg)
